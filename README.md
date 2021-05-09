@@ -10,3 +10,8 @@ Here are the tools we'll use in this tutorial:
 3. [Celo Web Extension Wallet](https://chrome.google.com/webstore/detail/celoextensionwallet/kkilomkmpmkbdnfelcpgckmpcaemjcdh?hl=en) - enables browser to interact with the Celo blockchain
 4. [Ganache](https://github.com/celo-org/ganache-cli) - local development blockchain
 5. [Remix IDE](http://remix.ethereum.org/) with [Celo Plugin](https://github.com/dexfair/celo-remix-plugin) - Smart contract IDE
+
+## Notes
+* For boilerplate HTML refer [here](https://gist.github.com/reachjason/626760335b04efc65fbc550650ed562a)
+* Prebuilt web3.min.js comes from [here](https://github.com/ChainSafe/web3.js)
+* Using pre-compiled bootstrap CSS [here](https://getbootstrap.com/docs/4.3/getting-started/download/)
